@@ -1,5 +1,7 @@
 package de.neuefische;
 
+import java.util.Objects;
+
 public class Car {
   private String brand;
    private int year;
@@ -58,5 +60,29 @@ public class Car {
 
     String describeMe() {
         return brand + " " + model + " " + color;
+    }
+
+
+    public String toString() {
+        return "Car{" +
+                "brand='" + brand + '\'' +
+                ", year=" + year +
+                ", type='" + type + '\'' +
+                ", color='" + color + '\'' +
+                ", model='" + model + '\'' +
+                '}';
+    }
+
+
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Car car = (Car) o;
+        return year == car.year && Objects.equals(brand, car.brand) && Objects.equals(type, car.type) && Objects.equals(color, car.color) && Objects.equals(model, car.model);
+    }
+
+
+    public int hashCode() {
+        return Objects.hash(brand, year, type, color, model);
     }
 }

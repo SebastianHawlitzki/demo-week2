@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="OOP Basics Aufgabe">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/model/Student.java" afterDir="false" />
+    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="OOP Students + Car Aufgabe">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/aufgaben/StudentDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/aufgaben/StudentDBresult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/aufgaben/StudentDBTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/OOPBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOPBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/OOPBasics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/model/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -39,13 +46,49 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="de.neuefische.aufgaben" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.neuefische.model" />
+      <recent name="de.neuefische" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OOPBasicsTest.whenAudi1andAudiIsEqual_expectTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-Week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.neuefische.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.neuefische" />
+      <option name="MAIN_CLASS_NAME" value="de.neuefische.OOPBasicsTest" />
+      <option name="METHOD_NAME" value="whenAudi1andAudiIsEqual_expectTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OOPBasicsTest.whenAudi1andAudiIsEqual_expectTrue" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669622726501</updated>
-      <workItem from="1669622728947" duration="17086000" />
+      <workItem from="1669622728947" duration="32803000" />
     </task>
     <task id="LOCAL-00001" summary="init: BIG BANG">
       <created>1669624684749</created>
@@ -84,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669634551532</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOP Students + Car Aufgabe">
+      <created>1669648205739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669648205739</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +155,7 @@
     <MESSAGE value="init: BIG BANG" />
     <MESSAGE value="maven workflow" />
     <MESSAGE value="OOP Basics Aufgabe" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP Basics Aufgabe" />
+    <MESSAGE value="OOP Students + Car Aufgabe" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Students + Car Aufgabe" />
   </component>
 </project>
