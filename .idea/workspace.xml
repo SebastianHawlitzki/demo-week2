@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="maven workflow">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOPBasics.java" afterDir="false" />
+    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="OOP Basics Aufgabe">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/model/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/OOPBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOPBasics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669622726501</updated>
-      <workItem from="1669622728947" duration="8710000" />
+      <workItem from="1669622728947" duration="17086000" />
     </task>
     <task id="LOCAL-00001" summary="init: BIG BANG">
       <created>1669624684749</created>
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669626095812</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="OOP Basics Aufgabe">
+      <created>1669634551532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669634551532</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init: BIG BANG" />
     <MESSAGE value="maven workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="maven workflow" />
+    <MESSAGE value="OOP Basics Aufgabe" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Basics Aufgabe" />
   </component>
 </project>
