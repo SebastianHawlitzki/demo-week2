@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="Student DB Aufgabe">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/BiologyStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/ComputerScienceStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/MainOOPAdvanced.java" afterDir="false" />
+    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="OOP Advanced + Aufgabe 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/ComputerScienenceStuden2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/Student2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/aufgaben/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Aufgaben/StudentDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/aufgaben/StudentDBresult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Aufgaben/StudentDBresult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/neuefische/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/neuefische/aufgaben/StudentDBTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/OOP_Aufgaben/StudentDBTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/ComputerScienceStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/ComputerScienceStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/MainOOPAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/MainOOPAdvanced.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -104,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669622726501</updated>
-      <workItem from="1669622728947" duration="44220000" />
+      <workItem from="1669622728947" duration="51666000" />
     </task>
     <task id="LOCAL-00001" summary="init: BIG BANG">
       <created>1669624684749</created>
@@ -148,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669664825314</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="OOP Advanced + Aufgabe 1">
+      <created>1669727088740</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669727088740</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +170,7 @@
     <MESSAGE value="OOP Basics Aufgabe" />
     <MESSAGE value="OOP Students + Car Aufgabe" />
     <MESSAGE value="Student DB Aufgabe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student DB Aufgabe" />
+    <MESSAGE value="OOP Advanced + Aufgabe 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Advanced + Aufgabe 1" />
   </component>
 </project>

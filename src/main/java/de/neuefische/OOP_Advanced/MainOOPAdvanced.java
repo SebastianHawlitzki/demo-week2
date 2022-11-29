@@ -1,5 +1,6 @@
 package de.neuefische.OOP_Advanced;
 
+
 public class MainOOPAdvanced {
     public static void main(String[] args) {
 
@@ -12,5 +13,9 @@ public class MainOOPAdvanced {
 
         Citizen[] citizenArray = {andre, luisa, greta, lukas};
 
+        // Aufgabe 2, instanziere einen Comp-Student
+
+        Student2 alfons = new ComputerScienenceStuden2("Alfons", 24);
+        System.out.println(alfons.getAdress());
     }
 }

@@ -6,6 +6,7 @@ import de.neuefische.OOP_Aufgaben.StudentDB;
 import de.neuefische.OOP.Student;
 
 public class Main {
+    /*
     public static void main(String[] args) {
     // Car-Object
         //Car 1
@@ -27,19 +28,20 @@ public class Main {
 
         // Student-Object
         // Students
-       /* Student
+       //Student
 
         String studentDescription = one.toString();
         System.out.println(studentDescription);
         System.out.println("Alter: " + one.getAge());
         System.out.println("Geschlecht: " + one.getGender());
 
-*/
+
         System.out.println(audi2.equals(audi));
         System.out.println(audi);
 
         // Students Aufgabe - Random Student
 // Students:
+
         Student chrstian = new Student("Christian", 001);
         Student sebastian = new Student ("Sebastian", 002);
         Student muslim = new Student("Muslim", 003);
@@ -55,5 +57,6 @@ public class Main {
 
 
     }
+    */
 
 }

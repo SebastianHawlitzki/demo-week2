@@ -1,26 +1,26 @@
 package de.neuefische.OOP_Advanced;
 
-import de.neuefische.OOP.Student;
-
 import java.util.Objects;
 
-public class  ComputerScienceStudent implements Citizen {
+
+public class ComputerScienenceStuden2 extends Student2{
+
     private String name;
     private int age;
 
-    public ComputerScienceStudent(String name, int age) {
+    public ComputerScienenceStuden2(String name, int age) {
         this.name = name;
         this.age = age;
     }
 
     @Override
     public String getAdress() {
-        return "Am Weg 19A";
-    }
+        return super.getAdress();
 
+    }
     @Override
     public int getIdentityCardNumber() {
-        return 647;
+        return super.getIdentityCardNumber();
     }
 
     public String getName() {
@@ -41,7 +41,7 @@ public class  ComputerScienceStudent implements Citizen {
 
     @Override
     public String toString() {
-        return "ComputerScienceStudent{" +
+        return "ComputerScienenceStuden2{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
@@ -51,7 +51,7 @@ public class  ComputerScienceStudent implements Citizen {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        ComputerScienceStudent that = (ComputerScienceStudent) o;
+        ComputerScienenceStuden2 that = (ComputerScienenceStuden2) o;
         return age == that.age && Objects.equals(name, that.name);
     }
 
@@ -59,6 +59,5 @@ public class  ComputerScienceStudent implements Citizen {
     public int hashCode() {
         return Objects.hash(name, age);
     }
-
-
 }
+
