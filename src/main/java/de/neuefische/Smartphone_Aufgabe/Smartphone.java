@@ -2,6 +2,8 @@ package de.neuefische.Smartphone_Aufgabe;
 
 import lombok.Data;
 
+import java.util.Arrays;
+
 @Data
 public class Smartphone implements Radio, GPS {
 
@@ -37,5 +39,14 @@ public class Smartphone implements Radio, GPS {
         this.nameOfModel = nameOfModel;
         this.nameOfManufacturer = nameOfManufacturer;
         this.allContacts = allContacts;
+    }
+
+    @Override
+    public String toString() {
+        return "Smartphone{" +
+                "nameOfModel='" + nameOfModel + '\'' +
+                ", nameOfManufacturer='" + nameOfManufacturer + '\'' +
+                ", allContacts=" + Arrays.toString(allContacts) +
+                '}';
     }
 }

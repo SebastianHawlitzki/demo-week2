@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="OOP Advanced + Aufgabe 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/BusinessContacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Friend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/GPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Smartphone.java" afterDir="false" />
+    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="OOP Advanced + Aufgabe 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/BusinessContacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/BusinessContacts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Friend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Friend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Smartphone_Aufgabe/Smartphone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669622726501</updated>
-      <workItem from="1669622728947" duration="58629000" />
+      <workItem from="1669622728947" duration="60139000" />
     </task>
     <task id="LOCAL-00001" summary="init: BIG BANG">
       <created>1669624684749</created>
@@ -155,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669735756071</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="OOP Advanced + Aufgabe 3">
+      <created>1669748268896</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669748268896</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +185,7 @@
     <MESSAGE value="Student DB Aufgabe" />
     <MESSAGE value="OOP Advanced + Aufgabe 1" />
     <MESSAGE value="OOP Advanced + Aufgabe 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP Advanced + Aufgabe 2" />
+    <MESSAGE value="OOP Advanced + Aufgabe 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Advanced + Aufgabe 3" />
   </component>
 </project>

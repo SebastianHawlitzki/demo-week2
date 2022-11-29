@@ -4,14 +4,25 @@ public class BusinessContacts extends Contact{
     private String companyName;
 
     //Methods
-    public String addContacts(){
-return null;
-    }
 
+
+
+
+
+//ToString
     @Override
     public String toString() {
         return "BusinessContacts{" +
-                "companyName='" + companyName + '\'' + getNameOfContact() +
+                "companyName='" + companyName + '\'' +
+                ", nameOfContact='" + getNameOfContact() +
                 '}';
+    }
+//Getter/Setter
+    public String getCompanyName() {
+        return companyName;
+    }
+
+    public void setCompanyName(String companyName) {
+        this.companyName = companyName;
     }
 }

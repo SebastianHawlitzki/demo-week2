@@ -25,5 +25,13 @@ public class Friend extends Contact {
         this.setNameOfContact(nameOfContact);
         this.phoneNumber = phoneNumber;
     }
+
+    @Override
+    public String toString() {
+        return "Friend{" +
+                "phoneNumber=" + phoneNumber  + '\'' +
+                ", nameOfContact='" + getNameOfContact() +
+                '}';
+    }
 }
 
