@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="OOP Students + Car Aufgabe">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/aufgaben/StudentDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/aufgaben/StudentDBresult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/aufgaben/StudentDBTest.java" afterDir="false" />
+    <list default="true" id="1420227b-9e8e-4211-ab77-dc8a02b88b09" name="Changes" comment="Student DB Aufgabe">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/BiologyStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/ComputerScienceStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Advanced/MainOOPAdvanced.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/OOPBasics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/aufgaben/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Aufgaben/StudentDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/aufgaben/StudentDBresult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP_Aufgaben/StudentDBresult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/OOP/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/neuefische/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/neuefische/aufgaben/StudentDBTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/OOP_Aufgaben/StudentDBTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +30,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -59,6 +64,8 @@
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="de.neuefische.OOP" />
+      <recent name="de.neuefische.model" />
       <recent name="de.neuefische.aufgaben" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -71,7 +78,7 @@
       <module name="demo-Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.neuefische.*" />
+          <option name="PATTERN" value="de.neuefische.OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669622726501</updated>
-      <workItem from="1669622728947" duration="32803000" />
+      <workItem from="1669622728947" duration="44220000" />
     </task>
     <task id="LOCAL-00001" summary="init: BIG BANG">
       <created>1669624684749</created>
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669648205739</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Student DB Aufgabe">
+      <created>1669664825314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669664825314</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +170,7 @@
     <MESSAGE value="maven workflow" />
     <MESSAGE value="OOP Basics Aufgabe" />
     <MESSAGE value="OOP Students + Car Aufgabe" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP Students + Car Aufgabe" />
+    <MESSAGE value="Student DB Aufgabe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student DB Aufgabe" />
   </component>
 </project>

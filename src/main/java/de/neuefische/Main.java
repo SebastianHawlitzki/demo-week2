@@ -1,8 +1,9 @@
 package de.neuefische;
 
 
-import de.neuefische.aufgaben.StudentDB;
-import de.neuefische.model.Student;
+import de.neuefische.OOP.Car;
+import de.neuefische.OOP_Aufgaben.StudentDB;
+import de.neuefische.OOP.Student;
 
 public class Main {
     public static void main(String[] args) {

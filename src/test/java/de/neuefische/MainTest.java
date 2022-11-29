@@ -1,5 +1,6 @@
 package de.neuefische;
 
+import de.neuefische.OOP.Car;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

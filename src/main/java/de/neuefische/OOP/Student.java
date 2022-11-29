@@ -1,10 +1,9 @@
-package de.neuefische.model;
+package de.neuefische.OOP;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-import java.util.Objects;
- @Data
+@Data
  @AllArgsConstructor
 public class Student {
 

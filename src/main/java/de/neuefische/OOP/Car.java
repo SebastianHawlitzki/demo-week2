@@ -1,4 +1,4 @@
-package de.neuefische;
+package de.neuefische.OOP;
 
 import java.util.Objects;
 
@@ -57,8 +57,8 @@ public class Car {
         this.model = model;
 
     }
-
-    String describeMe() {
+// Methode
+public String describeMe() {
         return brand + " " + model + " " + color;
     }
 
